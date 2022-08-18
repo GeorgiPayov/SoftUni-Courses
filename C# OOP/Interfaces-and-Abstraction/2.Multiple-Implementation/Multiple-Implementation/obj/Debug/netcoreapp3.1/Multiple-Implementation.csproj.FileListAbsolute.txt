@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\Multiple-Implementation\Multiple-Implementation\bin\Debug\netcoreapp3.1\Multiple-Implementation.exe
+C:\Users\Acer\source\repos\Multiple-Implementation\Multiple-Implementation\bin\Debug\netcoreapp3.1\Multiple-Implementation.deps.json
+C:\Users\Acer\source\repos\Multiple-Implementation\Multiple-Implementation\bin\Debug\netcoreapp3.1\Multiple-Implementation.runtimeconfig.json
+C:\Users\Acer\source\repos\Multiple-Implementation\Multiple-Implementation\bin\Debug\netcoreapp3.1\Multiple-Implementation.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Multiple-Implementation\Multiple-Implementation\bin\Debug\netcoreapp3.1\Multiple-Implementation.dll
+C:\Users\Acer\source\repos\Multiple-Implementation\Multiple-Implementation\bin\Debug\netcoreapp3.1\Multiple-Implementation.pdb
+C:\Users\Acer\source\repos\Multiple-Implementation\Multiple-Implementation\obj\Debug\netcoreapp3.1\Multiple-Implementation.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Multiple-Implementation\Multiple-Implementation\obj\Debug\netcoreapp3.1\Multiple-Implementation.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Multiple-Implementation\Multiple-Implementation\obj\Debug\netcoreapp3.1\Multiple-Implementation.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Multiple-Implementation\Multiple-Implementation\obj\Debug\netcoreapp3.1\Multiple-Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Multiple-Implementation\Multiple-Implementation\obj\Debug\netcoreapp3.1\Multiple-Implementation.dll
+C:\Users\Acer\source\repos\Multiple-Implementation\Multiple-Implementation\obj\Debug\netcoreapp3.1\Multiple-Implementation.pdb
+C:\Users\Acer\source\repos\Multiple-Implementation\Multiple-Implementation\obj\Debug\netcoreapp3.1\Multiple-Implementation.genruntimeconfig.cache
