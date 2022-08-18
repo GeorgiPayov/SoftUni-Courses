@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\Restraurant\Restraurant\bin\Debug\netcoreapp3.1\Restraurant.exe
+C:\Users\Acer\source\repos\Restraurant\Restraurant\bin\Debug\netcoreapp3.1\Restraurant.deps.json
+C:\Users\Acer\source\repos\Restraurant\Restraurant\bin\Debug\netcoreapp3.1\Restraurant.runtimeconfig.json
+C:\Users\Acer\source\repos\Restraurant\Restraurant\bin\Debug\netcoreapp3.1\Restraurant.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Restraurant\Restraurant\bin\Debug\netcoreapp3.1\Restraurant.dll
+C:\Users\Acer\source\repos\Restraurant\Restraurant\bin\Debug\netcoreapp3.1\Restraurant.pdb
+C:\Users\Acer\source\repos\Restraurant\Restraurant\obj\Debug\netcoreapp3.1\Restraurant.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Restraurant\Restraurant\obj\Debug\netcoreapp3.1\Restraurant.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Restraurant\Restraurant\obj\Debug\netcoreapp3.1\Restraurant.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Restraurant\Restraurant\obj\Debug\netcoreapp3.1\Restraurant.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Restraurant\Restraurant\obj\Debug\netcoreapp3.1\Restraurant.dll
+C:\Users\Acer\source\repos\Restraurant\Restraurant\obj\Debug\netcoreapp3.1\Restraurant.pdb
+C:\Users\Acer\source\repos\Restraurant\Restraurant\obj\Debug\netcoreapp3.1\Restraurant.genruntimeconfig.cache
