@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\2.Raiding\2.Raiding\bin\Debug\netcoreapp3.1\2.Raiding.exe
+C:\Users\Acer\source\repos\2.Raiding\2.Raiding\bin\Debug\netcoreapp3.1\2.Raiding.deps.json
+C:\Users\Acer\source\repos\2.Raiding\2.Raiding\bin\Debug\netcoreapp3.1\2.Raiding.runtimeconfig.json
+C:\Users\Acer\source\repos\2.Raiding\2.Raiding\bin\Debug\netcoreapp3.1\2.Raiding.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\2.Raiding\2.Raiding\bin\Debug\netcoreapp3.1\2.Raiding.dll
+C:\Users\Acer\source\repos\2.Raiding\2.Raiding\bin\Debug\netcoreapp3.1\2.Raiding.pdb
+C:\Users\Acer\source\repos\2.Raiding\2.Raiding\obj\Debug\netcoreapp3.1\2.Raiding.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\2.Raiding\2.Raiding\obj\Debug\netcoreapp3.1\2.Raiding.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\2.Raiding\2.Raiding\obj\Debug\netcoreapp3.1\2.Raiding.AssemblyInfo.cs
+C:\Users\Acer\source\repos\2.Raiding\2.Raiding\obj\Debug\netcoreapp3.1\2.Raiding.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\2.Raiding\2.Raiding\obj\Debug\netcoreapp3.1\2.Raiding.dll
+C:\Users\Acer\source\repos\2.Raiding\2.Raiding\obj\Debug\netcoreapp3.1\2.Raiding.pdb
+C:\Users\Acer\source\repos\2.Raiding\2.Raiding\obj\Debug\netcoreapp3.1\2.Raiding.genruntimeconfig.cache
