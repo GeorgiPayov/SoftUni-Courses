@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\3.WildFarm\3.WildFarm\bin\Debug\netcoreapp3.1\3.WildFarm.exe
+C:\Users\Acer\source\repos\3.WildFarm\3.WildFarm\bin\Debug\netcoreapp3.1\3.WildFarm.deps.json
+C:\Users\Acer\source\repos\3.WildFarm\3.WildFarm\bin\Debug\netcoreapp3.1\3.WildFarm.runtimeconfig.json
+C:\Users\Acer\source\repos\3.WildFarm\3.WildFarm\bin\Debug\netcoreapp3.1\3.WildFarm.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\3.WildFarm\3.WildFarm\bin\Debug\netcoreapp3.1\3.WildFarm.dll
+C:\Users\Acer\source\repos\3.WildFarm\3.WildFarm\bin\Debug\netcoreapp3.1\3.WildFarm.pdb
+C:\Users\Acer\source\repos\3.WildFarm\3.WildFarm\obj\Debug\netcoreapp3.1\3.WildFarm.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\3.WildFarm\3.WildFarm\obj\Debug\netcoreapp3.1\3.WildFarm.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\3.WildFarm\3.WildFarm\obj\Debug\netcoreapp3.1\3.WildFarm.AssemblyInfo.cs
+C:\Users\Acer\source\repos\3.WildFarm\3.WildFarm\obj\Debug\netcoreapp3.1\3.WildFarm.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\3.WildFarm\3.WildFarm\obj\Debug\netcoreapp3.1\3.WildFarm.dll
+C:\Users\Acer\source\repos\3.WildFarm\3.WildFarm\obj\Debug\netcoreapp3.1\3.WildFarm.pdb
+C:\Users\Acer\source\repos\3.WildFarm\3.WildFarm\obj\Debug\netcoreapp3.1\3.WildFarm.genruntimeconfig.cache
