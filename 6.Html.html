@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FromJSONToHTMLTable</title>
+    <style>
+        table,th{
+            border: groove;
+            border-collapse: collapse;
+        }
+        td{
+            border: 1px solid black;
+        }
+        td,th{
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div id="wrapper">
+    </div>
+    <script>
+        function fromJSONToHTMLTable(input){
+            //Write your code here
+
+    let arr = JSON.parse(input);
+    let result = [];
+    let name, score;
+
+    let header = "\t<tr>";
+    for ( var property of Object.keys(arr[0]) ) {
+      header += "<th>" + property + "</th>";
+    }
+    header += "</tr>\n";
+
+    result += "<table>\n";
+    result += header;
+
+    for (let i = 0; i < arr.length; i++) {
+      result += "\t<tr>";
+      for ( var property of Object.values(arr[i]) ) {
+
+        result += "<td>" + property + "</td>";
+      }
+      result += "</tr>\n"
+
+    }
+    result += "</table>";
+
+    return result;
+        }
+        window.onload = function(){
+            let container = document.getElementById('wrapper');
+            container.innerHTML = fromJSONToHTMLTable([`[{"Name":"Pesho",
+    "Score":4,
+    " Grade":8},
+   {"Name":"Gosho",
+    "Score":5,
+    " Grade":8},
+   {"Name":"Angel",
+    "Score":5.50,
+    " Grade":10}]`
+]);
+        };
+    </script>
+</body>
+</html>
